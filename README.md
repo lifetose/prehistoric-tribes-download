@@ -2,7 +2,7 @@
 
 Lead a stone-age tribe: gather, build, grow and defend your village. A fan-made port of the 2008 mobile strategy classic.
 
-**[⬇ Download the latest version](https://github.com/lifetose/prehistoric-tribes-download/releases/latest)**
+**[⬇ Download the latest version](https://github.com/lifetose/prehistoric_tribes_download/releases/latest)**
 
 Play in the browser instead: https://prehistoric-tribes.vercel.app
 
